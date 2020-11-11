@@ -11,6 +11,6 @@ OB v.2 is an artificial intelligence artist project. * Color, value, texture, st
 - Matplotlib
 
 > # User Interface
-    - PySide2 Qt5
-    - OpenCV 4.3.0
-    - NumPy
+- PySide2 Qt5
+- OpenCV 4.3.0
+- NumPy
