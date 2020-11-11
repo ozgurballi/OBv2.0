@@ -4,5 +4,8 @@ OB v.2 is an artificial intelligence artist project. * Color, value, texture, st
 
 # Dependencies
 
-Tensorflow 2.1 (to train)
-Qt5 (for GUI) 
+> # Training
+    Tensorflow 2.1 (to train)
+
+> # User Interface
+    Qt5 (for GUI) 
