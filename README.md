@@ -5,10 +5,10 @@ OB v.2 is an artificial intelligence artist project. * Color, value, texture, st
 # Important Dependencies
 
 > # Training
-    - Tensorflow 2.1 with Keras
-    - OpenCV 4.3.0
-    - NumPy
-    - Matplotlib
+- Tensorflow 2.1 with Keras
+- OpenCV 4.3.0
+- NumPy
+- Matplotlib
 
 > # User Interface
     - PySide2 Qt5
